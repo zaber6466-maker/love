@@ -2,7 +2,13 @@
   {
     "text": "💋",
     "time": 1759476854797,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "from": "ahmed",
+        "time": 1759477457842
+      }
+    ],
     "readTime": 1759477451288
   }
 ]
