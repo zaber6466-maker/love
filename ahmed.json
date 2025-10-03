@@ -1,18 +1,26 @@
 [
   {
     "text": "test",
-    "time": 1759471975526
+    "time": 1759471975526,
+    "reactions": [],
+    "readTime": 1759474596840
   },
   {
     "text": "test 2",
-    "time": 1759471985342
+    "time": 1759471985342,
+    "reactions": [],
+    "readTime": 1759474596840
   },
   {
     "text": "test new",
-    "time": 1759472135974
+    "time": 1759472135974,
+    "reactions": [],
+    "readTime": 1759474596840
   },
   {
     "text": "😘😘😘",
-    "time": 1759474270349
+    "time": 1759474270349,
+    "reactions": [],
+    "readTime": 1759474596840
   }
 ]
