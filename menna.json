@@ -2,7 +2,13 @@
   {
     "text": "test menna",
     "time": 1759471997230,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "from": "ahmed",
+        "time": 1759474585549
+      }
+    ],
     "readTime": 1759474574660
   }
 ]
