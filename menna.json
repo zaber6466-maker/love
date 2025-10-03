@@ -19,7 +19,13 @@
   {
     "text": "test newest",
     "time": 1759476212564,
-    "reactions": [],
+    "reactions": [
+      {
+        "emoji": "❤️",
+        "from": "ahmed",
+        "time": 1759476226892
+      }
+    ],
     "readTime": 1759476222983
   }
 ]
